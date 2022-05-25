@@ -1,2 +1,0 @@
-# terminal
-settings for powershell
